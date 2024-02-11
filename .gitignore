@@ -1,0 +1,6 @@
+/dist
+.env
+
+/node_modules
+
+sessions.json
